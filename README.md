@@ -28,8 +28,12 @@ Model Training and Evaluation:
 
 Train and evaluate four different models:
 Logistic Regression
+
 Decision Tree Classifier
 Random Forest Classifier
 Support Vector Machine (SVM)
 Evaluate each model using accuracy_score, precision_score, recall_score, f1_score, and classification_report.
 Visualize the performance metrics for all models using bar plots.
+![output taks1](https://github.com/user-attachments/assets/e5ea5ab5-26dc-4517-b00d-9923405dc3eb)
+
+
