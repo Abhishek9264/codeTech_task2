@@ -1,3 +1,17 @@
+Name:ABHISHEK RANJAN
+
+Company:CODETECH IT SOLUTIONS
+
+ID:CT08DS6502
+
+Domain:Data Science
+
+Duration:August to September 2025
+
+Mentor:Muzammil Ahmed
+
+**OverView of Project**
+
 **Breast Cancer Classification Project**
 **Overview**
 This project demonstrates a comparative analysis of various machine learning models for breast cancer classification using the popular Breast Cancer Wisconsin dataset. The goal is to classify whether the cancer is benign or malignant based on various features extracted from cell nuclei present in the image.
